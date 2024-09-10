@@ -16,4 +16,4 @@ Data are not included in the repository due to the filesize.
 Figures can plotted using cells 23-31 in `gwas_figures.ipynb`.
 
 ## Figure 4
-Data can be found 
+Data can be accessed upon request, as it is very large. Figures can then be made using `gwas_figs.ipynb`. 
