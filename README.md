@@ -2,6 +2,9 @@
 
 The code here can be used to reproduce the figures found in the above manuscript.
 
+## Data download
+Data required to reproduce published figures can be found at https://doi.org/10.5281/zenodo.13774370. Unzip the file into the top level directory of this repository and the jupyter notebooks should work.
+
 ## Figure 2B-C
 Code is found in cells 5--9 of `phylogeny_simulations.ipynb`, which contain code to both perform Brownian motion simulations and inferences, as well as generate the figures.
 
@@ -16,4 +19,4 @@ Data are not included in the repository due to the filesize.
 Figures can plotted using cells 23-31 in `gwas_figures.ipynb`.
 
 ## Figure 4
-Data can be accessed upon request, as it is very large. Figures can then be made using `gwas_figs.ipynb`. 
+Figures can then be made using `gwas_figs.ipynb`. 
